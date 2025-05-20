@@ -25,6 +25,7 @@ public class Program {
 
         do {
             System.out.println("\nМеню:");
+            System.out.println("9. Exit");
             System.out.println("1. Показать все деревья");
             System.out.println("2. Собрать урожай");
             System.out.println("3. Сравнить деревья");
